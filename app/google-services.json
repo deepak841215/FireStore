@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23427771771",
+    "project_id": "firestore-ecb29",
+    "storage_bucket": "firestore-ecb29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23427771771:android:f5e567b77649b2e12b21de",
+        "android_client_info": {
+          "package_name": "com.example.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBzRqWpGkHOdGus0ObZ3tQNMjSaeKHEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
